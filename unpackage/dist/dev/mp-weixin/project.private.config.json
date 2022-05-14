@@ -1,0 +1,42 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/index/index",
+                    "pathName": "pages/main/main",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/weixin/weixin",
+                    "pathName": "pages/my/my",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/weixinLog/weixinLog",
+                    "pathName": "pages/my/my",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/my1/my1",
+                    "pathName": "pages/my1/my1",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

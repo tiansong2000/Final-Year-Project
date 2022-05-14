@@ -1,0 +1,39 @@
+
+page{
+		background: #F5f5f5
+}
+.recordBox{
+		
+		padding: 30rpx;
+		margin-top: 20rpx;
+		font-size: 40rpx;
+			text-align: center;
+			background-color: #ffffff;
+}
+.reservationTime{
+	display: flex;
+}
+.nextpage{
+	float: right;
+	border: #aa0000 solid 5rpx;
+    margin-top: 30rpx;
+    border-radius: 25rpx;
+	font-size: 35rpx;
+	margin-bottom: 20rpx;
+    margin-left: 180rpx;
+}
+.name{
+
+	margin-top: 30rpx;
+}
+.category{
+	display: flex;
+}
+.doctor{
+	display: flex;
+	/* border: #000000 solid 2rpx; */
+}
+.content{
+}
+
+

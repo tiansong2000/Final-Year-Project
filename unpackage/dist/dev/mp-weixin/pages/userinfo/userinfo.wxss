@@ -1,0 +1,45 @@
+
+.info-page {
+	margin-top: 50rpx;    
+	font-size: 40rpx;
+}
+.title {
+	text-align: center;
+}
+.input{
+	margin-left: 40rpx;
+}
+.name {
+	display: flex;
+	font-size: 45rpx;
+	margin-top: 70rpx;
+	height: 60rpx;
+}
+.btn {
+	margin-top: 300rpx;
+	width: 90%;
+}
+.a {
+	justify-content: center;
+}
+.b {
+	font-size: 45rpx;
+}
+.sex {
+	font-size: 45rpx;
+	margin-top: 20rpx;
+	height: 60rpx;
+}
+.birth {
+
+	font-size: 45rpx;
+	margin-top: 20rpx;
+	height: 60rpx;
+}
+.input {}
+.alergic {
+	font-size: 45rpx;
+	margin-top: 20rpx;
+	height: 60rpx;
+}
+

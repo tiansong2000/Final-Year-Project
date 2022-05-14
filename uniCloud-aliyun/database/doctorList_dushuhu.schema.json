@@ -1,0 +1,54 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"doctorName": {
+			"bsonType": "string",
+			"description": "医生名称",
+			"title": "医生名称",
+			"trim": "both"
+		},
+		"Image": {
+			"bsonType": "string",
+			"description": "头像地址",
+			"defaultValue": "头像地址"
+		},
+		"Department": {
+			"bsonType": "string",
+			"description": "部门"
+		},
+		"Title": {
+			"bsonType": "string",
+			"description": "医生的职位",
+			"title": "医生职位级别",
+			"trim": "both"
+		},
+		"Specialist": {
+			"bsonType": "string",
+			"description": "擅长领域",
+			"title": "擅长方面",
+			"trim": "both"
+		},
+		"PersonalDetail": {
+			"bsonType": "string",
+			"description": "个人信息",
+			"title": "个人信息",
+			"trim": "both"
+		},
+		"docnameEng": {
+			"bsonType": "string",
+			"description": "pinyin",
+			"title": "医生名字",
+			"trim": "both"
+		}
+	}
+}

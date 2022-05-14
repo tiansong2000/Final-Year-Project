@@ -1,0 +1,33 @@
+{
+	"bsonType": "object",
+	"required": ["name"],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"name": {
+			"bsonType": "string",
+			"description": "部门名称",
+			"title": "部门名称",
+			"trim": "both"
+		},
+		"hospitalName": {
+			"bsonType": "string",
+			"description": "医院名称",
+			"defaultValue": "独墅湖医院"
+		},
+		"create_date": {
+			"bsonType": "timestamp",
+			"description": "部门创建时间",
+			"forceDefaultValue": {
+				"$env": "now"
+			}
+		}
+	}
+}

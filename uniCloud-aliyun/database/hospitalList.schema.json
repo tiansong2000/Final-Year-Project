@@ -1,0 +1,39 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"hospitalName": {
+			"bsonType": "string",
+			"description": "医院名字",
+			"title": "医院名字",
+			"trim": "both"
+		},
+		"address": {
+			"bsonType": "string",
+			"description": "地址",
+			"title": "地址",
+			"trim": "both"
+		},
+		"phoneNumber": {
+			"bsonType": "string",
+			"description": "电话号码",
+			"title": "电话号码",
+			"trim": "both"
+		},
+		"districtName": {
+			"bsonType": "string",
+			"description": "区域名称",
+			"title": "区域名称",
+			"trim": "both"
+		}
+	}
+}

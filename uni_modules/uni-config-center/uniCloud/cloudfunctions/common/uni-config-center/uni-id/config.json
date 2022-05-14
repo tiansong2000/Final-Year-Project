@@ -1,0 +1,63 @@
+{
+	"passwordSecret": "passwordSecret-demo",
+	"tokenSecret": "tokenSecret-demo",
+	"tokenExpiresIn": 7200,
+	"tokenExpiresThreshold": 600,
+	"passwordErrorLimit": 6,
+	"passwordErrorRetryTime": 3600,
+	"autoSetInviteCode": false,
+	"forceInviteCode": false,
+	"app-plus": {
+		"tokenExpiresIn": 2592000,
+		"oauth" : {
+			"weixin" : {
+				"appid" : "wx33f95fdb8aac7962",
+				"appsecret" : "bb6cb94b2bb303015d58c74d2140bea8"
+			},
+			"apple":	{
+				"bundleId": "your APP bundleId"
+			},
+      "qq": {
+        "appid": "qq appid",
+        "appsecret": "qq app key"
+      }
+		}
+	},
+	"mp-weixin": {
+		"oauth" : {
+			"weixin" : {
+				"appid" : "wx33f95fdb8aac7962",
+				"appsecret" : "bb6cb94b2bb303015d58c74d2140bea8"
+			}
+		}
+	},
+	"mp-alipay": {
+		"oauth" : {
+			"alipay" : {
+				"appid" : "alipay appid",
+				"privateKey" : "alipay privateKey"
+			}
+		}
+	},
+  "mp-qq": {
+    "oauth": {
+      "qq": {
+        "appid" : "mp qq appid",
+        "appsecret" : "mp qq appsecret"
+      }
+    }
+  },
+	"service": {
+		"sms": {
+			"name": "DCloud",
+			"codeExpiresIn": 180,
+			"smsKey": "c6cd86534935aff090bfe9d4c440d219",
+			"smsSecret": "5edfb2ff083ea8d8f421fb7fd95e54f4"
+		},
+		"univerify": {
+			"appid":"__UNI__FB2DD31",
+			"apiKey": "4525f86905bc16e8aa3b8a5f54120b0f",
+			"apiSecret": "3bb5694c40094a4a611eea0fa72db210"
+		}
+	}
+}

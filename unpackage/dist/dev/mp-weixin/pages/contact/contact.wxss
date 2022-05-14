@@ -1,0 +1,56 @@
+
+page {
+	width: 100%;
+	height: auto
+}
+.messageList {
+	margin-top: 15rpx;
+	border: 4rpx solid red;
+}
+.item {
+	height: 140rpx;
+	padding: 10 10rpx;
+	border-bottom: #555555;
+}
+.friend-img-box {
+	float: left;
+	margin-left: 12rpx;
+	margin-top: 10rpx;
+}
+.friend-img {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+.text {
+	float: left;
+	margin-left: 15px;
+	height: 50px;
+	width: 75%;
+	color: #333333;
+}
+.top {
+	height: 25px;
+	line-height: 26rpx;
+	margin-top: 25rpx;
+}
+.name {
+	float: left;
+	font-size: 40rpx;
+}
+.time {
+	float: right;
+	font-size: 13px;
+	color: #999999;
+}
+.msg-content {
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 28rpx;
+	color: #999999;
+	margin-top: 5rpx;
+	overflow:hidden; /*溢出的部分隐藏*/
+	  white-space: nowrap; /*文本不换行*/
+	  text-overflow:ellipsis;
+}
+

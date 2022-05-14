@@ -1,0 +1,99 @@
+
+.info-page {
+		margin-top: 50rpx;
+		font-size: 60rpxx;
+}
+.title {
+		text-align: center;
+		font-size: 40rpx;
+}
+.input {
+		margin-left: 30rpx;
+}
+.first-line {
+		display: flex;
+		flex-direction: row;
+		/* border:solid 1rpx red; */
+		margin-top: 60rpx;
+		height: 60rpx;
+}
+.name {
+
+		font-size: 40rpx;
+		width: 50%;
+		/* border:solid 1rpx red; */
+}
+.sex {
+		font-size: 40rpx;
+		width: 50%;
+}
+.date{
+		    margin-top: 20rpx;
+			font-size: 40rpx;
+}
+.type{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.phone{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.birth{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.docName{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.main-asking{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.sick-description{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.result {
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.recommendation{
+		margin-top: 20rpx;
+		font-size: 40rpx;
+}
+.shanchang {
+		font-size: 45rpx;
+		margin-top: 20rpx;
+}
+.geren {
+		font-size: 45rpx;
+		margin-top: 20rpx;
+}
+.inputline{
+		font-size: 35rpx;
+		border-bottom: ;
+}
+.btn {
+		margin-top: 40rpx;
+		width: 90%;
+}
+.a {}
+.b {
+		font-size: 45rpx;
+		height: 220rpx;
+		border: solid 2rpx #000000;
+		width: 86%;
+		margin-top: 30rpx;
+		margin-left: 34rpx;
+}
+.c {
+		font-size: 45rpx;
+}
+.input {}
+.alergic {
+		font-size: 45rpx;
+		margin-top: 20rpx;
+}
+

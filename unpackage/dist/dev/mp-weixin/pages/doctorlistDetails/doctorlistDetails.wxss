@@ -1,0 +1,109 @@
+
+page {
+		width: 100%;
+		weight: auto;
+}
+.displayNone {
+		display: none;
+}
+.top {
+		padding: 30rpx 30rpx;
+		height: 300rpx;
+		box-shadow: 0 0 30px 3px #FFFFFF;
+		display: flex;
+}
+.top-left {
+		width: 65%;
+        margin-left: 30rpx;
+}
+.uni-input {}
+.current-timeslot {
+		text-align: center;
+		font-size: 40rpx;
+}
+.uni-inputweek {}
+.uni-inputdate {}
+.name {
+		margin-top: 10rpx;
+		font-size: 60rpx;
+}
+.title {
+		margin-top: 20rpx;
+		font-size: 30rpx;
+}
+.department {
+		margin-top: 20rpx;
+		font-size: 30rpx;
+}
+.hospital {
+		margin-top: 30rpx;
+}
+.top-right {
+		width: 40%;
+}
+.pic {
+		margin-top: 35rpx;
+		width: 70%;
+		height: 80%;
+		margin-left: 40rpx;
+}
+.middle {
+
+		padding: 30rpx 30rpx;
+}
+.icon1 {
+		width: 100rpx;
+		height: 100rpx;
+}
+.icon {
+		width: 40rpx;
+		height: 40rpx;
+		margin-top: 32rpx;
+}
+.icon_text {
+		display: flex;
+}
+.text1 {
+		
+		margin-top: 20rpx;
+}
+.bottom {
+
+		padding: 30rpx 30rpx;
+}
+
+	/* 	.out-patient-method {
+		padding: 30rpx 30rpx;
+		border: 2rpx solid red;
+		height: 200rpx;
+		display: flex;
+	}
+
+	.Message {
+		width: 33%;
+		border: 2rpx solid #0000FF;
+
+	}
+
+	.Audio {
+		width: 33%;
+		border: 2rpx solid #0000FF;
+	}
+
+	.Video {
+		width: 33%;
+		border: 2rpx solid #0000FF;
+	}
+
+	.txt {
+		margin-top: 15rpx;
+		margin-left: 35rpx;
+	}
+
+	.icon2 {
+		width: 100rpx;
+		height: 100rpx;
+		margin-left: 60rpx;
+		margin-top: 10rpx;
+	} */
+

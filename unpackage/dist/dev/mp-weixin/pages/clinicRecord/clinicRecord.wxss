@@ -1,0 +1,20 @@
+
+.recordBox{
+		border: solid 3rpx #0000FF;
+		padding: 10rpx;
+}
+.reservationTime{
+	display: flex;
+}
+.category{
+	display: flex;
+}
+.doctor{
+	display: flex;
+}
+.delete{
+	position: fixed;
+	right:10rpx;
+}
+		
+

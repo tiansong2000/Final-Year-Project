@@ -1,0 +1,54 @@
+
+.info-page {
+	margin-top: 50rpx;
+	font-size: 40rpx;
+}
+.title{
+	text-align: center;
+	font-size: 40rpx;
+}
+.input{
+	margin-left: 40rpx;
+}
+.name {
+	display: flex;
+	font-size: 45rpx;
+	margin-top: 70rpx;
+}
+.btn {
+	margin-top: 40rpx;
+	width: 90%;
+}
+.a {
+}
+.b {
+	font-size: 45rpx;
+     margin-top: 30rpx;
+	font-size: 35rpx;
+}
+.c{
+}
+.sex {
+	font-size: 45rpx;
+	margin-top: 20rpx;
+}
+.shanchang{
+	margin-top: 20rpx;
+	font-size: 40rpx;
+}
+.lingyu{
+	
+	margin-top: 20rpx;
+	width: 95%;
+}
+.birth {
+
+	font-size: 45rpx;
+	margin-top: 20rpx;
+}
+.input {}
+.alergic {
+	font-size: 45rpx;
+	margin-top: 20rpx;
+}
+

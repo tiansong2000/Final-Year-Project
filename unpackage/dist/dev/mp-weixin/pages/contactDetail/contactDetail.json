@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "张三",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "submit": "/components/submit/submit"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/contact/contact",
+    "pages/my/my",
+    "pages/doctorList/doctorList",
+    "pages/doctorlistDetails/doctorlistDetails",
+    "pages/Registration/Registration",
+    "pages/hospitalList/hospitalList",
+    "pages/contactDetail/contactDetail",
+    "pages/userinfo/userinfo",
+    "pages/clinicRecord/clinicRecord",
+    "pages/reservationTable/reservationTable",
+    "pages/modeselection/modeselection",
+    "pages/password/password",
+    "pages/phoneLog/phoneLog",
+    "pages/my1/my1",
+    "pages/usersetting/usersetting",
+    "pages/changeHead/changeHead",
+    "pages/userinfo0/userinfo0",
+    "pages/changePsd/changePsd",
+    "pages/doctorInfo0/doctorInfo0",
+    "pages/doctorInfo/doctorInfo",
+    "pages/caseHistory/caseHistory",
+    "pages/search/search",
+    "pages/mycaseHistory/mycaseHistory",
+    "pages/myprescription/myprescription",
+    "pages/prescription/prescription",
+    "pages/video/video"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#303133",
+    "selectedColor": "#55aa00",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home1.png"
+      },
+      {
+        "pagePath": "pages/contact/contact",
+        "text": "消息",
+        "iconPath": "static/tabbar/textbox.png",
+        "selectedIconPath": "static/tabbar/textbox1.png"
+      },
+      {
+        "pagePath": "pages/my1/my1",
+        "text": "我的",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/my1.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

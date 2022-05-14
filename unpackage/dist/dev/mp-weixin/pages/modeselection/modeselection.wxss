@@ -1,0 +1,44 @@
+
+.out-patient-method {
+	padding: 30rpx 30rpx;
+}
+.Message {
+	width: 100%;
+	/* border: 2rpx solid #0000FF; */
+	display: flex;
+	margin-top: 20rpx;
+}
+.button-click {
+	-webkit-transform: scale(0.9, 0.9);
+	        transform: scale(0.9, 0.9);
+}
+.pricetag {
+	text-align: center;
+	/* 	border: 2rpx solid #0000FF; */
+	margin-left: 100rpx;
+	margin-top: 130rpx;
+	font-size: 40rpx;
+}
+.Audio {
+	width: 100%;
+	/* border: 2rpx solid #0000FF; */
+	display: flex;
+	margin-top: 60rpx;
+}
+.Video {
+	width: 100%;
+	/* border: 2rpx solid #0000FF; */
+	display: flex;
+	margin-top: 60rpx;
+}
+.txt {
+	margin-top: 15rpx;
+	margin-left: 35rpx;
+}
+.icon2 {
+	width: 100rpx;
+	height: 100rpx;
+	margin-left: 40rpx;
+	margin-top: 10rpx;
+}
+

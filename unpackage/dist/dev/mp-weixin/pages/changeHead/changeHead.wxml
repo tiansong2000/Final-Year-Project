@@ -1,0 +1,1 @@
+<view class="con"><view data-event-opts="{{[['tap',[['chooseImg',['$event']]]]]}}" class="choosePic" bindtap="__e"><image src="../../static/submit/add.png"></image><view class="functionName">从相片选择</view></view></view>

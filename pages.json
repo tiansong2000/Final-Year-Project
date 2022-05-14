@@ -1,0 +1,304 @@
+{
+	"pages": [//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+			{
+			"path": "pages/main/main",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}, 
+		{
+			"path": "pages/contact/contact",
+			"style": {
+				"navigationBarTitleText": "消息"
+
+			}
+
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+
+			}
+		}, {
+			"path": "pages/doctorList/doctorList",
+			"style": {
+				"navigationBarTitleText": "doctorList"
+			}
+
+		}
+
+	    
+        ,{
+            "path" : "pages/doctorlistDetails/doctorlistDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "doctorlistDetails",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Registration/Registration",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "Registration",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hospitalList/hospitalList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "hospitalList",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/contactDetail/contactDetail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "张三",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        
+        
+        ,{
+            "path" : "pages/userinfo/userinfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/clinicRecord/clinicRecord",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/reservationTable/reservationTable",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/modeselection/modeselection",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		
+		
+		
+		{
+		    "path" : "pages/password/password",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/phoneLog/phoneLog",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		
+		
+	 
+        {
+            "path" : "pages/my1/my1",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/usersetting/usersetting",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/changeHead/changeHead",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/userinfo0/userinfo0",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+   
+    
+        ,{
+            "path" : "pages/changePsd/changePsd",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/doctorInfo0/doctorInfo0",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/doctorInfo/doctorInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/caseHistory/caseHistory",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mycaseHistory/mycaseHistory",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/myprescription/myprescription",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/prescription/prescription",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/video/video",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/timeTable/timeTable",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#303133",
+		"selectedColor": "#55aa00",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/main/main",
+				"text": "首页",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home1.png"
+			},
+
+			{
+				"pagePath": "pages/contact/contact",
+				"text": "消息",
+				"iconPath": "static/tabbar/textbox.png",
+				"selectedIconPath": "static/tabbar/textbox1.png"
+			},
+			{
+				"pagePath": "pages/my1/my1",
+				"text": "我的",
+				"iconPath": "static/tabbar/my.png",
+				"selectedIconPath": "static/tabbar/my1.png"
+
+			}
+			
+		]
+	},
+	"condition": {
+		"current": 0,
+		"list": [
+
+		]
+	}
+	
+	
+}
+
